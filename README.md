@@ -1,2 +1,2 @@
 # LSTM_-1
-strategy based on LSTM
+A strategy based on LSTM was applied to China stock market, backtesting from 2016-1-1 to 2017-3-10. Backtesting platform is ricequant.com .
